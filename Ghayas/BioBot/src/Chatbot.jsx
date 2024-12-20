@@ -5,7 +5,7 @@ import { Send, Moon, Sun, Dna, Microscope, Brain, FlaskRoundIcon as Flask, Leaf 
 import { GoogleGenerativeAI } from "@google/generative-ai"
 
 const teamMembers = [
-  { name: 'Syed Ghayad Ahmed', role: '160923737138', icon: Brain },
+  { name: 'Syed Ghyas Ahmed', role: '160923737138', icon: Brain },
   { name: 'Khaja Sulaimman', role: '160923737170', icon: Flask },
   { name: 'Mohd Saifullah', role: '160923737139', icon: Leaf },
   { name: 'Mohd Ali', role: '160923737137', icon: Microscope }

@@ -131,10 +131,10 @@ export function QuizApp() {
   };
 
   const students = [
-    { name: "Alice Johnson", role: "Frontend Developer" },
-    { name: "Bob Smith", role: "Backend Developer" },
-    { name: "Charlie Brown", role: "UI/UX Designer" },
-    { name: "Diana Garcia", role: "Project Manager" },
+    { name: "Zohaib Afnan", role: "160923737152" },
+    { name: "Ibrahim Onaiz", role: "160923737129" },
+    { name: "Amair mohd Khan", role: "160923737149" },
+    { name: "Mohd Riyaz", role: "160923737135" },
   ];
 
   return (
