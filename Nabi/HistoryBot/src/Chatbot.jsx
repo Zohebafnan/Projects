@@ -4,10 +4,10 @@ import { Send, Moon, Sun, Scroll, Book, Landmark, Library } from 'lucide-react'
 import { GoogleGenerativeAI } from "@google/generative-ai"
 
 const teamMembers = [
-  { name: 'Nabi', role: 'Team Lead', icon: Scroll },
-  { name: 'Bari', role: 'Developer', icon: Book },
-  { name: 'Mateen', role: 'UI Designer', icon: Landmark },
-  { name: 'Nabi', role: 'Developer', icon: Library }
+  { name: 'Syed Nabi', role: '160923737146', icon: Scroll },
+  { name: 'Md Ibrahim Sharif', role: '160923737174', icon: Book },
+  { name: 'Abdul Mateen', role: '160923737134', icon: Landmark },
+  { name: 'Syed Abdul Bari', role: '160923737121', icon: Library }
 ]
 
 const genAI = new GoogleGenerativeAI("AIzaSyBLDpQJwWGBmEdTbmT6TT9K_uICaJf5v48")
